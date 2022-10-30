@@ -23,7 +23,7 @@ Technical Skills:
 Front-end:
 * ReactJS (Context API, Styled Component, Storybook, Framer Motion, Stripe, Joi validations, Axios, Formik, Yup validations, Material UI, Moment, Recharts, Ant Design, etc)
 * TypeScript
-* React Native.
+* React Native.     
 * Full responsive designs for mobile, tablet, and desktop. 
 * Designs with Figma.
 
