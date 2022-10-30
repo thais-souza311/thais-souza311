@@ -26,7 +26,7 @@ Front-end:
 * React Native.     
 * Full responsive designs for mobile, tablet, and desktop. 
 * Designs with Figma.
-
+     
 Tests
 * Unit, integration
 * Jest
