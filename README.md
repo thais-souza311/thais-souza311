@@ -42,7 +42,7 @@ Services, Process, and SoftSkills:
 DevOps
 * GitHub Actions 
 * Azure DevOps Server;
- 
+    
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m constantly learning and improving my skills in ReactJS, React Native, Native Base and TypeScript.  💻📱
 
